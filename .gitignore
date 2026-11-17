@@ -1,0 +1,10 @@
+/build/
+/SmileMorphPrecomp.aex
+*.aep
+*.aepx
+*.aex
+*.obj
+*.lib
+*.exp
+*.res
+*.pipl
