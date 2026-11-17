@@ -50,3 +50,7 @@ The helper can read endpoint keys from a RE:Flex reference effect when available
 ## License
 
 Project source is licensed under MIT; see `LICENSE.txt`. Adobe After Effects SDK files are not included and remain subject to Adobe's terms.
+
+## Code signing policy
+
+See [`CODE_SIGNING_POLICY.md`](CODE_SIGNING_POLICY.md) for the current signing status and the proposed verification process. No binary is signed at this time.
